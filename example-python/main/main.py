@@ -9,6 +9,6 @@ def main():
     print(t.name)
     print(t.residents)
 
-
+# hier ist der code
 if __name__ == "__main__":
     main()
